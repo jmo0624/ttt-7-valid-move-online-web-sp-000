@@ -28,7 +28,7 @@ def valid_move?(board, index)
     
   end
   
-  
+  if (position_taken?(array, ind)) == false && (on_board?(num)) == true
   
 end
 
